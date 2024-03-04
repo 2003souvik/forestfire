@@ -1,14 +1,14 @@
 <h1>Algerian Forest Cover</h1>
-<p>This is a machine learning project which is used to predict the Fire Weather Index by taking input parametrs like:</p>
-<p>Relative Humidity(RH)</p>
-<p>Wind speed(Ws)</p>
-<p>Rain</p>
-<p>Fine Fuel Moisture</p>
-<p>Duff Moisture Code(DMC)</p>
-<p>Drought Code(DC)</p>
-<p>Initial Speed Index(ISI)</p>
-<p>Classes</p>
-<p>Region</p>
+<p>1.This is a machine learning project which is used to predict the Fire Weather Index by taking input parametrs like:</p>
+<p>2.Relative Humidity(RH)</p>
+<p>3.Wind speed(Ws)</p>
+<p>4.Rain</p>
+<p>5.Fine Fuel Moisture</p>
+<p>6.Duff Moisture Code(DMC)</p>
+<p>7.Drought Code(DC)</p>
+<p>8.Initial Speed Index(ISI)</p>
+<p>9.Classes</p>
+<p>10.Region</p>
 
 
 
