@@ -1,4 +1,4 @@
-<h1>Algerian Forest Cover</h1>
+<h1>Algerian Forest Fire Cover</h1>
 <p>1.This is a machine learning project which is used to predict the Fire Weather Index by taking input parametrs like:</p>
 <p>2.Relative Humidity(RH)</p>
 <p>3.Wind speed(Ws)</p>
